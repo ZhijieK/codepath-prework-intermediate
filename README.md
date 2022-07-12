@@ -20,8 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] Added a question and button option for dog lovers and cat lovers.
-* [x] Added additional images to correspond with the choices above.
+* [x] Added a question with button options for each answer.
+* [x] Added additional images to correspond with the question above.
 * [x] Added light and dark modes for user preferences.
 
 ## Video Walkthrough
