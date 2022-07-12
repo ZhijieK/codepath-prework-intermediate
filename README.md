@@ -1,8 +1,8 @@
-# Android Prework - *HelloWorld*
+# Android Prework - *Pet Greetings*
 
 Submitted by: **Zhijie Kuang**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Pet Greetings** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **2** hours spent in total
 
