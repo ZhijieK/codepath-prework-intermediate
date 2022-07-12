@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="aboutme">Hello World! My name is Zhijie. I am passionate in software development and I love kittens!</string>
+</resources>
